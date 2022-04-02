@@ -1,1 +1,1 @@
-# Amazon-KDD-Cup-22-
+# Amazon-KDD-Cup-22
